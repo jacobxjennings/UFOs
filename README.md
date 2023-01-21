@@ -17,7 +17,7 @@ This file contains the JS code that handles the table and filters.
 ## Summary
 
 Users can filter data using the fields on the left side of the screenshot below.
-![image](https://github.com/jacobxjennings/UFOs/blob/main/static/images/image.jpgraw=true)
+![image](https://github.com/jacobxjennings/UFOs/blob/main/static/images/image.pngraw=true)
 
 
 
